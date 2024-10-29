@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pushkar987
 - 👀 I’m interested in machine learining , deeplearning and artificial intelligence
 - 🌱 I’m currently learning python and gui 
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on neural networking  
 - 📫 How to reach me pushkarking4949@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
